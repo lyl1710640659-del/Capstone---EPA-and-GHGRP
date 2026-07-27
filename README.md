@@ -93,7 +93,7 @@ continuous-emissions-monitoring flag.
 
 ---
 
-## Status and next steps
+## Status and possible next steps
 
 **Work in progress.** What is here is the descriptive stage — establishing what the data can
 and cannot support before committing to a design. Three of the planned steps, in order of
