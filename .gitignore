@@ -1,0 +1,16 @@
+# EPA source data — 31 MB, publicly downloadable, do not commit
+data/
+*.xlsx
+*.xlsb
+!output/*.csv
+
+# notebook noise
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+
+# RA crosswalk diagnostics — not for public release
+output/fig1_tier3*
