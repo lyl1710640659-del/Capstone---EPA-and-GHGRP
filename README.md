@@ -134,5 +134,9 @@ Two further directions, contingent on the above:
 
 ---
 
+<<<<<<< HEAD
 Elaine · July 2026 · comments welcome via
 [Issues](https://github.com/lyl1710640659-del/Capstone---EPA-and-GHGRP/issues)
+=======
+Elaine · July 27, 2026
+>>>>>>> 72f3752edef5ad5e4095d7cddcdede1f7918a00c
